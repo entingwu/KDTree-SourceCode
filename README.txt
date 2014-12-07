@@ -1,0 +1,1 @@
+This program should run on windows platform. Please use visual studio to compile these files. The building K-D Tree process is extremely slow. But the rendering is pretty fast. I use some code from tutorial in the book PBRT.  
